@@ -1,0 +1,320 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-01 16:56:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-02 11:57:01
+*/
+.head{
+	width: 100%;
+	height: 0.62rem;
+	position: fixed;
+	float: left;
+	overflow: hidden;
+	border-bottom: 0.01rem solid #eee;
+}
+.head_left{
+	width: 0.16rem;
+	height: 0.3rem;
+	float: left;
+	margin-left: 0.23rem;
+	margin-top: 0.15rem;
+}
+.head_left span{
+	width: 0.16rem;
+	height: 0.3rem;
+	float: left;
+	line-height: 0.3rem;
+	color: #424242;
+	font-size: 0.3rem;
+}
+.head_right{
+	width: 1.46rem;
+	height: 0.49rem;
+	margin-top: 0.06rem;
+	margin-left: 1.27rem;
+	float: left;
+}
+.head_right_top{
+	width: 1.46rem;
+	height: 0.26rem;
+	margin-left: 0;
+	margin-top: 0;
+}
+.head_right_top1{
+	float: left;
+	width: 0.80rem;
+	height: 0.26rem;
+	
+}
+.head_right_top1 span{
+	float: left;
+	font-size: 0.26rem;
+	line-height: 0.26rem;
+	color: #8F8F8F;
+}
+.head_right_top2{
+	width: 0.55rem;
+	height: 0.26rem;
+	float: left;
+	margin-left: 0.11rem;
+}
+.head_right_top2 span{
+	color: red;
+	font-size: 0.18rem;
+	float: left;
+	line-height: 0.26rem;
+}
+.head_right_bottom{
+	width: 1.01rem;
+	height: 0.17rem;
+	margin-left: 0.22rem;
+	margin-top: 0.05rem;
+}
+.head_right_bottom span{
+	color: #ACACB2;
+	line-height: 0.17rem;
+	font-size: 0.17rem;
+	float: left;
+}
+.main{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0.62rem;
+	bottom: 1.8rem;
+	overflow-y: scroll;
+}
+.main1{
+	width: 100%;	
+	height: 0.23rem;
+	background-color: #F3F4F5;
+	float: left;
+}
+.main2{
+	width: 100%;
+	height: 0.75rem;
+	float: left;
+	border-bottom: 0.01rem solid #eee;
+}
+.main2 span{
+	line-height: 0.75rem;
+	margin-left: 0.24rem;
+	font-size: 0.21rem;
+	color: #222222;
+	float: left;
+}
+.main3{
+	width: 100%;
+	height: 3.10em;
+	float: left;
+	padding-top: 0.28rem;
+	border-bottom: 0.01rem solid #eee;
+}
+.main4{
+	width: 4.35rem;
+	height: 2.39rem;
+	margin-left: 0.22rem;
+}
+.main4_top{
+	width: 100%;
+	height: 0.44rem;
+	float: left;
+}
+.main4_top1{
+	width: 0.67rem;
+	height: 0.23rem;
+	float: left;
+	border-top: 0.01rem solid #B3C1DD;
+	border-bottom: 0.01rem solid #B3C1DD;
+	padding-bottom: 0.02rem;
+}
+.main4_top1 span{
+	float: left;
+	color:#B3C1DD;
+	font-size: 0.15rem;
+	margin-left: 0.05rem;
+}
+.main4_top2{
+	width: 2.69rem;
+	height: 0.44rem;
+	float: left;
+	margin-left: 0.11rem;
+}
+.main4_bottom{
+	width: 100%;	
+	height: 1.95rem;	
+	float: left;
+}
+.main4_bottom_left{
+	width: 1.04rem;	
+	height: 1.95rem;	
+	float: left;
+	overflow: hidden;
+}
+.main4_bottom_left img{
+	width: 0.98rem;	
+	height: 1.04rem;
+	float: left;
+	margin-top: 0.23rem;
+}
+.main4_bottom1{
+	width: 2.0rem;	
+	height: 1.64rem;	
+	margin-left: 0.26rem;
+	float: left;
+}
+.main4_bottom2{
+	width: 2rem;	
+	height: 0.5rem;
+	float: left; 
+}
+.main4_bottom2 span{
+	font-size: 0.2rem;
+	color: #2A2A2A;	
+	height: 0.05rem;
+	float: left; 	
+}
+.main4_top2 span{
+	font-size: 0.18rem;
+	float: left;
+}
+.main4_top3{
+	width: 0.65rem;	
+	height: 0.17rem;	
+	margin-right: 0;
+	float: right;
+}
+.main4_top3 span{
+	height: 0.17rem;	
+	float:left;
+	line-height: 0.17rem;
+	font-size: 0.17rem;
+	color: red;
+}
+.main4_bottom3{
+	width: 1.66rem;
+	height: 0.48rem;
+	float: left;
+	margin-top: 0.16rem;
+}
+.main4_bottom4{
+	width: 1.31rem;
+	height: 0.35rem;
+	float: left;
+	border: 0.01rem solid #eee;
+	margin-top: 0.14rem;
+}
+.main4_bottom5{
+	width: 0.38rem;
+	height: 0.35rem;
+	float: left;
+	text-align: center;
+}
+.main4_bottom5 span{
+	line-height: 0.30rem;
+	float: left;
+	margin-left: 0.12rem;
+	font-size: 0.16rem;
+}
+.main4_bottom6{
+	border-left:0.01rem solid #eee;
+	}
+.main4_bottom3 span{
+	font-size: 0.17rem;
+	float: left;
+	color: #D0D0D0;
+}
+.main4_bottom7{
+	width: 0.96rem;
+	height: 1.64rem;
+	float: right;
+	margin-right: 0;
+}
+.main4_bottom8{
+	width: 0.96rem;
+	height: 0.23rem;
+	float: left;
+	margin-left: 0.43rem;
+}
+.main4_bottom8 span{
+	color: #242424;
+	float: left;
+	font-size: 0.18rem;
+	line-height: 0.23rem;
+}
+.main4_bottom9{
+	width: 100%;
+	height: 0.15rem;
+	float: left;
+	margin-top: 0.13rem;
+}
+.main4_bottom9 span{
+	line-height: 0.15rem;
+	font-size: 0.15rem;
+	color: #9A9AA0;
+	float: left;
+}
+main::-webkit-scrollbar{
+	display: none;
+}
+.bottom{
+	position: fixed;
+	width: 100%;
+	height: 1.8rem;
+	bottom: 0;
+	border-top: 0.01rem solid #eee;
+	overflow: hidden;
+}
+.bottom1{
+	width: 4.80rem;
+	height: 0.62rem;
+	float: left;
+}
+.bottom2{
+	width: 2.80rem;
+	height: 0.21rem;
+	margin-left: 1.24rem;
+	margin-top: 0.16rem;
+	float: left;
+}
+.bottom2 h1{
+	line-height: 0.21rem;
+	font-size: 0.21rem;
+	float: left;
+	color: #000;
+}
+.bottom2 h2{
+	line-height: 0.21rem;
+	font-size: 0.21rem;
+	float: left;
+	margin-left: 0.08rem;
+	color: red;
+}
+.bottom2 h3{
+	line-height: 0.21rem;
+	font-size: 0.19rem;
+	float: left;
+	margin-left: 0.05rem;
+	color: #999999;
+}
+.bottom3{
+	width: 100%;
+	height: 1.01rem;
+	float: left;
+	overflow: hidden;
+}
+.bottom4{
+	width: 4.34em;
+	height: 0.66rem;
+	margin: 0 auto;
+	margin-top: 0.21rem;
+	background-color: red;
+	padding-top: 0.22rem; 
+}
+.bottom4 span{
+	color:white;
+	font-size: 0.23rem;
+	line-height: 0.23rem;
+	float: left;
+	margin-left: 1.86rem;
+}
